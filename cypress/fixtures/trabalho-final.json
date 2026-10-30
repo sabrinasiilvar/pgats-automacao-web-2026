@@ -1,0 +1,28 @@
+{
+  "usuario": {
+    "nome": "PGATS Trabalho Final",
+    "primeiroNome": "PGATS",
+    "sobrenome": "Final",
+    "senha": "Senha123!",
+    "dia": "10",
+    "mes": "January",
+    "ano": "1990",
+    "empresa": "PGATS",
+    "endereco": "Rua de Teste 123",
+    "complementoEndereco": "Apto 10",
+    "pais": "United States",
+    "estado": "California",
+    "cidade": "San Francisco",
+    "cep": "94103",
+    "telefone": "9999999999"
+  },
+  "produtoBusca": "Blue Top",
+  "comentarioPedido": "Pedido de teste automatizado.",
+  "pagamento": {
+    "nomeCartao": "PGATS Trabalho Final",
+    "numeroCartao": "4111111111111111",
+    "cvc": "123",
+    "mesValidade": "12",
+    "anoValidade": "2030"
+  }
+}

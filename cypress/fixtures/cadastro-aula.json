@@ -1,0 +1,19 @@
+{
+  "usuario": {
+    "nome": "PGATS Aut",
+    "primeiroNome": "PGATS",
+    "sobrenome": "Aut",
+    "senha": "12345",
+    "dia": "1",
+    "mes": "September",
+    "ano": "1990",
+    "empresa": "PGATS",
+    "endereco": "Example Address",
+    "complementoEndereco": "Example Address 2",
+    "pais": "United States",
+    "estado": "California",
+    "cidade": "San Francisco",
+    "cep": "12345",
+    "telefone": "999999999"
+  }
+}

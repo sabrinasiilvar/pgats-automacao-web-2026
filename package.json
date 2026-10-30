@@ -1,0 +1,24 @@
+{
+  "name": "pgats-automacao-web-2026",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:final": "cypress run --spec cypress/e2e/trabalho-final.cy.js",
+    "test:headed": "cypress run --headed",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "cypress": "^13.7.3",
+    "cypress-mochawesome-reporter": "^5.0.0",
+    "cypress-xpath": "^2.0.1",
+    "faker": "^5.5.3",
+    "faker-js": "^1.0.0"
+  }
+}
