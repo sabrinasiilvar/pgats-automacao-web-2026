@@ -49,6 +49,7 @@ O workflow `.github/workflows/trabalho-final.yml` executa `npm run test:final` e
 
 No GitHub, abra a execução do workflow e baixe o artefato na seção **Artifacts**.
 
+
 ## Estrutura principal
 
 ```text

@@ -13,6 +13,7 @@ Seletores dos elementos;
 
 Asserções;
 
+
 Dados utilizados nos cenários.
 
 O objetivo é reduzir duplicação, facilitar manutenção e tornar as specs mais legíveis e orientadas ao comportamento do usuário.
